@@ -43,11 +43,4 @@ This is a responsive Restaurant Page built using React.js for practice purposes.
    http://localhost:5173
    ```
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to use and modify this project for your own purposes. If you like it, consider giving it a star on GitHub!
 
